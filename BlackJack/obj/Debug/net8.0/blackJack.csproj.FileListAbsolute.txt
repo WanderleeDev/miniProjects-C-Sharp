@@ -1,0 +1,14 @@
+/home/wanderlee/proyectos/C#/blackJack/bin/Debug/net8.0/blackJack
+/home/wanderlee/proyectos/C#/blackJack/bin/Debug/net8.0/blackJack.deps.json
+/home/wanderlee/proyectos/C#/blackJack/bin/Debug/net8.0/blackJack.runtimeconfig.json
+/home/wanderlee/proyectos/C#/blackJack/bin/Debug/net8.0/blackJack.dll
+/home/wanderlee/proyectos/C#/blackJack/bin/Debug/net8.0/blackJack.pdb
+/home/wanderlee/proyectos/C#/blackJack/obj/Debug/net8.0/blackJack.GeneratedMSBuildEditorConfig.editorconfig
+/home/wanderlee/proyectos/C#/blackJack/obj/Debug/net8.0/blackJack.AssemblyInfoInputs.cache
+/home/wanderlee/proyectos/C#/blackJack/obj/Debug/net8.0/blackJack.AssemblyInfo.cs
+/home/wanderlee/proyectos/C#/blackJack/obj/Debug/net8.0/blackJack.csproj.CoreCompileInputs.cache
+/home/wanderlee/proyectos/C#/blackJack/obj/Debug/net8.0/blackJack.dll
+/home/wanderlee/proyectos/C#/blackJack/obj/Debug/net8.0/refint/blackJack.dll
+/home/wanderlee/proyectos/C#/blackJack/obj/Debug/net8.0/blackJack.pdb
+/home/wanderlee/proyectos/C#/blackJack/obj/Debug/net8.0/blackJack.genruntimeconfig.cache
+/home/wanderlee/proyectos/C#/blackJack/obj/Debug/net8.0/ref/blackJack.dll
